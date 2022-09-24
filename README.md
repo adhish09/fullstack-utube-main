@@ -1,7 +1,4 @@
-# Youtube Clone Project
-
-
-![](readMe.gif) 
+ 
 
 
 ## Description
@@ -9,14 +6,7 @@ This project briefly depicts the Youtube Clone site using React.js, Node.js, Mon
 The first part shows how to download a project clone from GitHub and render the site. <br/>
 The second part describes the features and functions of the site. <br/>
 <br/>
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
 
-## Motivation
-In school I graduated in April 2020, I learned HTML, CSS, and JS in relation to web developement. <br/>
-However, in practice, I wanted to use a JS library for the UI, and I stumbled upon React.js, which is popular these days (created by Facebook). 
-Frequently enjoying Youtube, I have been curious about the algorithm applied to the function of updating and subscribing to videos.
-This motivated me to create a personal website by cloning some functions of the Youtube. 
-In the project, Node.js is used for the back-end, and React.js is used for the front-end.
 
 ## Installation
 1. Download ffmpeg and set an environmental path: [How?](https://www.youtube.com/watch?v=qjtmgCb8NcE)
