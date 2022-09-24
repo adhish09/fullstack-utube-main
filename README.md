@@ -97,6 +97,4 @@ The second part describes the features and functions of the site. <br/>
 - **Comments**: Users can leave a comment in the video they are watching
 - **Likes / Dislikes**: Users can select the Likes/Dislikes button for the video or comment they are watching 
  
-
-[Visit YouTube Video](https://youtu.be/r16x6Hv3mnQ)
  
